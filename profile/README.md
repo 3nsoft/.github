@@ -10,6 +10,6 @@ If you want to help us with development of protocols and open source goodies, go
 
 If you want to run your own 3NWeb service, you can build it from [spec-server source](https://github.com/PrivacySafe/spec-server), or use [spec-3nweb-server npm module](https://www.npmjs.com/package/spec-3nweb-server) in your own code.
 
-If you want to make user-facing 3NWeb apps, look inside [platform bundle downloads](https://3nweb.com/downloads/PrivacySafe/) at  "platform-test-apps" for an example of using a test stand mode and lok at "platform-api-ts-d" for definitions of injected 3NWeb app capabilities.
+If you want to make user-facing 3NWeb apps, look inside [platform bundle downloads](https://3nweb.com/downloads/PrivacySafe/) at  "platform-test-apps" for an example of using a test stand mode and look at "platform-api-ts-d" for definitions of injected 3NWeb app capabilities.
 
 If you want to implement your own 3NWeb server or client side platform, check out related test suites in [spec-server](https://github.com/PrivacySafe/spec-server/tree/master/ts-code/tests/protocols) and [PrivacySafe](https://github.com/PrivacySafe/privacysafe-platform-electron/tree/main/platform-tester-apps). These test suites will become a part of respective 3NWeb standards.
