@@ -6,8 +6,6 @@ Our team is creating an uncompromisingly user-centric digital space:
 
 If you want to use PrivacySafe now, you can download the platform packed with basic 3NWeb apps [here](https://3nweb.com/downloads/PrivacySafe/). Note that at this time only nightly/pre-release versions are available. Regular stable service will come with the first stable release.
 
-If you want to help us with development of protocols and open source goodies, go to [PrivacySafe open collective page](https://opencollective.com/privacysafe).
-
 If you want to run your own 3NWeb service, you can build it from [spec-server source](https://github.com/PrivacySafe/spec-server), or use [spec-3nweb-server npm module](https://www.npmjs.com/package/spec-3nweb-server) in your own code.
 
 If you want to make user-facing 3NWeb apps, look inside [platform bundle downloads](https://3nweb.com/downloads/PrivacySafe/) at  "platform-test-apps" for an example of using a test stand mode and look at "platform-api-ts-d" for definitions of injected 3NWeb app capabilities.
